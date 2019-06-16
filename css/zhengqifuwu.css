@@ -1,0 +1,177 @@
+		<style>
+			*{
+				margin: 0px;
+				padding: 0px;
+			}
+			ul{
+				list-style: none;
+			}
+			.title1{
+				width: 100%;
+				height:60px;
+				line-height: 60px;
+				font-size: 16px;
+		      }
+			.title1_one{
+				float: left;
+				margin-left:35px;
+				font-size: 20px;
+				font-weight:600px;
+			}
+			.title1_two ul{
+				text-align:center;
+				margin-left: 200px;
+			}
+			.title1_two li{
+				float: left;
+				padding-left:25px ;
+				padding-right: 25px;
+				
+			}
+			.title1_three{
+				float: right;
+				padding:11px;
+				margin-right: 25px;
+			}
+			.title1_three img{
+				width:30px;
+				height: 32px;
+			}
+			.title1 a{
+				color: black;
+				text-decoration: none;
+			}
+			/*第二个头头*/
+			.title2{
+				width:100%;
+				height: 60px;
+				line-height: 60px;
+				font-size: 15px;
+				background-color: #f5f5f5;
+			}
+			.title2_one{
+				float: left;
+				margin-left: 34px;
+			}
+			.title2_two{
+				float: right;
+			}
+			.title2_two li{
+				float: left;
+				padding-left: 22px;
+				padding-right: 22px;
+			}
+			.title2_two a{
+				text-decoration: none;
+				color: #333;
+			}
+			#title_two_1{
+				font-weight:700px;
+			}
+			/**/
+			.LBo img{
+				width: 100%;
+				height: 700px;
+			}
+			.tu1 img{
+				width: 100%;
+			}
+			
+			
+			
+			#div{
+	height: 100px;
+	width:100%;
+}
+#rigth{
+	width: 68%;
+	height: 300px;
+	float: left;
+}
+#left{
+	float: right;
+	width: 32%;
+	height: 200px;
+}
+#rigth ul{
+	float: left;
+	margin: 50px;
+}
+#rigth li{
+	line-height: 30px;
+	color: #777777;
+	font-size: 12px;
+}
+#rigth li span{
+	color: black;
+	
+}
+#left1{
+	margin-left: 200px;
+	margin-top: 80px;
+}
+#left1 h4{
+	margin-left: 10px;
+	color:grey;
+}
+#left1 span{
+	color: #777777;
+	font-size: 14px;
+}
+#xian{
+	
+	border: 1px solid #EBEBEB;
+	
+	
+}
+#dibu{
+width: 1250px;
+clear: both;
+margin: 0 auto;
+height: 100px;	
+
+
+}
+#dibu1{
+	float:left;
+	margin-top:30px;
+}
+#dibu1 p{
+	
+	font-size: 14px;
+	color: #B4B4B6;
+}
+#dibu2{
+	float:right;
+	margin-top: 30px;
+}
+#dibu2{
+	font-size: 14px;
+	color: #B4B4B6;
+	
+}
+#dibu2 p img{
+vertical-align: middle;
+width: 20px;
+height: 20px;
+
+}
+#dibu2 #liu{
+	width: 16px;
+	height: 16px;
+}
+#dibu2 #fenxian{
+	border: solid gainsboro;
+	height:1px;
+}
+#dibu2 img{
+	margin-left: 25px;
+	/*height: 25px;*/
+	
+	
+	
+}
+#dibu2 p{
+	margin-right: 70px;
+}
+		</style>
